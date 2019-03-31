@@ -51,6 +51,10 @@ app/assets: assets specific to the present application
 lib/assets: assets for libraries written by your dev team
 vendor/assets: assets from third-party vendors
 
+- Active Record comes with a host of methods for creating, saving, and finding data objects, all without having to use the structured query language (SQL)2 used by relational databases.
+- Rails has a feature called migrations to allow data definitions to be written in pure Ruby, without having to learn an SQL data definition language (DDL).
+- `rails console --sandbox`
+
 
 
 
